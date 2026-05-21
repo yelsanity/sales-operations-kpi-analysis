@@ -1,0 +1,21 @@
+return_id,order_id,return_date,reason,returned
+RET-001,ORD-0019,2022-04-27,Defective,Yes
+RET-002,ORD-0095,2022-07-09,Wrong Item,Yes
+RET-003,ORD-0082,2023-10-25,Defective,Yes
+RET-004,ORD-0004,2023-12-22,Defective,Yes
+RET-005,ORD-0012,2022-11-05,Damaged in Shipping,Yes
+RET-006,ORD-0096,2023-12-09,Damaged in Shipping,Yes
+RET-007,ORD-0068,2023-06-12,Not as Described,Yes
+RET-008,ORD-0028,2023-04-28,Damaged in Shipping,Yes
+RET-009,ORD-0049,2022-11-06,Wrong Item,Yes
+RET-010,ORD-0054,2023-07-09,Defective,Yes
+RET-011,ORD-0059,2023-01-19,Damaged in Shipping,Yes
+RET-012,ORD-0044,2022-05-24,Changed Mind,Yes
+RET-013,ORD-0021,2023-12-26,Not as Described,Yes
+RET-014,ORD-0048,2023-06-13,Not as Described,Yes
+RET-015,ORD-0040,2023-12-15,Changed Mind,Yes
+RET-016,ORD-0093,2022-03-18,Wrong Item,Yes
+RET-017,ORD-0042,2023-03-11,Not as Described,Yes
+RET-018,ORD-0100,2022-03-28,Defective,Yes
+RET-019,ORD-0073,2022-08-28,Changed Mind,Yes
+RET-020,ORD-0077,2022-09-04,Wrong Item,Yes

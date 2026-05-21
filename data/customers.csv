@@ -1,0 +1,31 @@
+customer_id,customer_name,segment,city,region,join_date,email
+CUST-001,Juan Santos,Corporate,Manila,Mindanao,2021-07-21,customer1@email.com
+CUST-002,Maria Santos,Consumer,Baguio,Luzon,2021-01-05,customer2@email.com
+CUST-003,Jose Flores,Home Office,Manila,Visayas,2021-07-26,customer3@email.com
+CUST-004,Ana Rivera,Corporate,Cebu,Luzon,2020-08-02,customer4@email.com
+CUST-005,Carlos Rivera,Home Office,Baguio,Mindanao,2021-08-13,customer5@email.com
+CUST-006,Rosa Gomez,Corporate,Baguio,Luzon,2021-10-19,customer6@email.com
+CUST-007,Miguel Rivera,Corporate,Manila,Visayas,2021-10-01,customer7@email.com
+CUST-008,Elena Rivera,Consumer,Cebu,Visayas,2020-07-18,customer8@email.com
+CUST-009,Roberto Cruz,Consumer,Iloilo,Luzon,2020-03-20,customer9@email.com
+CUST-010,Luz Diaz,Home Office,Makati,Luzon,2020-03-03,customer10@email.com
+CUST-011,Antonio Diaz,Home Office,Iloilo,Mindanao,2020-11-07,customer11@email.com
+CUST-012,Carmen Diaz,Corporate,Zamboanga,Visayas,2020-07-03,customer12@email.com
+CUST-013,Fernando Gomez,Home Office,Cebu,Luzon,2020-02-01,customer13@email.com
+CUST-014,Isabel Garcia,Corporate,Cagayan de Oro,Luzon,2020-08-27,customer14@email.com
+CUST-015,Ricardo Flores,Home Office,Zamboanga,Visayas,2020-10-20,customer15@email.com
+CUST-016,Patricia Torres,Home Office,Iloilo,Luzon,2020-09-21,customer16@email.com
+CUST-017,Eduardo Rivera,Consumer,Iloilo,Visayas,2021-06-29,customer17@email.com
+CUST-018,Gloria Flores,Consumer,Cebu,Luzon,2021-08-29,customer18@email.com
+CUST-019,Ramon Gomez,Consumer,Iloilo,Mindanao,2021-07-22,customer19@email.com
+CUST-020,Teresa Torres,Home Office,Bacolod,Mindanao,2020-05-06,customer20@email.com
+CUST-021,Luis Flores,Home Office,Cagayan de Oro,Luzon,2020-12-05,customer21@email.com
+CUST-022,Marilou Mendoza,Corporate,Makati,Luzon,2020-03-28,customer22@email.com
+CUST-023,Ronaldo Garcia,Consumer,Baguio,Luzon,2020-07-01,customer23@email.com
+CUST-024,Jennifer Reyes,Corporate,Zamboanga,Mindanao,2021-04-17,customer24@email.com
+CUST-025,Mark Mendoza,Home Office,Iloilo,Mindanao,2021-08-07,customer25@email.com
+CUST-026,Sarah Diaz,Home Office,Cagayan de Oro,Luzon,2020-05-07,customer26@email.com
+CUST-027,James Diaz,Home Office,Bacolod,Mindanao,2021-11-06,customer27@email.com
+CUST-028,Grace Cruz,Corporate,Makati,Mindanao,2021-11-03,customer28@email.com
+CUST-029,Peter Torres,Consumer,Makati,Mindanao,2020-12-20,customer29@email.com
+CUST-030,Cynthia Flores,Consumer,Davao,Luzon,2020-05-02,customer30@email.com

@@ -1,0 +1,101 @@
+order_id,order_date,ship_date,ship_mode,customer_id,segment,city,region,category,sub_category,quantity,unit_price,discount,sales,profit
+ORD-0001,2023-10-17,2023-10-22,Standard Class,CUST-024,Home Office,Cebu,Mindanao,Furniture,Shelves,8,1154.89,0.2,7391.3,596.84
+ORD-0002,2023-03-09,2023-03-14,Standard Class,CUST-023,Home Office,Bacolod,Visayas,Office Supplies,Binders,8,2551.51,0.0,20412.08,4457.46
+ORD-0003,2022-08-14,2022-08-14,Same Day,CUST-025,Corporate,Cebu,Luzon,Office Supplies,Binders,14,1734.24,0.0,24279.36,2782.27
+ORD-0004,2023-01-25,2023-01-31,Standard Class,CUST-030,Corporate,Cebu,Mindanao,Technology,Accessories,2,3662.17,0.15,6225.69,544.42
+ORD-0005,2022-10-28,2022-10-29,First Class,CUST-003,Consumer,Cebu,Visayas,Furniture,Chairs,2,3323.25,0.3,4652.55,636.55
+ORD-0006,2022-10-12,2022-10-12,Same Day,CUST-022,Home Office,Cebu,Mindanao,Office Supplies,Pens,12,1087.06,0.0,13044.72,3398.75
+ORD-0007,2023-10-13,2023-10-16,Second Class,CUST-008,Home Office,Iloilo,Luzon,Office Supplies,Envelopes,13,1386.24,0.2,14416.9,3697.19
+ORD-0008,2022-08-23,2022-08-29,Standard Class,CUST-011,Consumer,Zamboanga,Visayas,Technology,Accessories,3,1094.37,0.15,2790.64,873.22
+ORD-0009,2023-10-21,2023-10-21,Same Day,CUST-019,Corporate,Baguio,Visayas,Technology,Laptops,8,3737.7,0.15,25416.36,3274.2
+ORD-0010,2023-01-06,2023-01-09,Second Class,CUST-021,Consumer,Cagayan de Oro,Mindanao,Furniture,Cabinets,3,3791.12,0.3,7961.35,659.95
+ORD-0011,2022-03-07,2022-03-07,Same Day,CUST-001,Home Office,Cebu,Mindanao,Furniture,Cabinets,17,1294.5,0.15,18705.52,5765.68
+ORD-0012,2023-07-04,2023-07-06,First Class,CUST-029,Home Office,Makati,Mindanao,Office Supplies,Pens,14,832.88,0.0,11660.32,3919.56
+ORD-0013,2022-07-02,2022-07-09,Standard Class,CUST-025,Home Office,Manila,Mindanao,Technology,Laptops,5,1900.87,0.0,9504.35,2013.15
+ORD-0014,2022-11-28,2022-11-28,Same Day,CUST-003,Consumer,Zamboanga,Luzon,Office Supplies,Pens,10,1235.29,0.0,12352.9,3871.43
+ORD-0015,2023-06-30,2023-07-03,Second Class,CUST-014,Consumer,Bacolod,Mindanao,Furniture,Cabinets,18,867.38,0.15,13270.91,4136.94
+ORD-0016,2023-12-08,2023-12-12,Second Class,CUST-008,Consumer,Iloilo,Luzon,Technology,Accessories,15,4503.09,0.1,60791.72,5246.4
+ORD-0017,2023-08-26,2023-08-29,Second Class,CUST-003,Home Office,Quezon City,Visayas,Office Supplies,Paper,2,1183.26,0.0,2366.52,728.63
+ORD-0018,2023-11-17,2023-11-17,Same Day,CUST-026,Corporate,Quezon City,Luzon,Furniture,Tables,19,2902.25,0.0,55142.75,15736.96
+ORD-0019,2022-04-10,2022-04-10,Same Day,CUST-021,Consumer,Manila,Visayas,Technology,Printers,15,4325.99,0.0,64889.85,16352.85
+ORD-0020,2022-12-14,2022-12-19,Standard Class,CUST-015,Consumer,Cebu,Visayas,Office Supplies,Binders,18,2270.64,0.1,36784.37,3864.07
+ORD-0021,2023-07-18,2023-07-23,Standard Class,CUST-014,Corporate,Zamboanga,Luzon,Furniture,Chairs,3,4635.52,0.3,9734.59,1177.05
+ORD-0022,2023-02-15,2023-02-20,Standard Class,CUST-010,Corporate,Bacolod,Mindanao,Technology,Phones,13,1362.76,0.3,12401.12,3541.0
+ORD-0023,2023-05-14,2023-05-17,Second Class,CUST-011,Consumer,Manila,Mindanao,Technology,Laptops,2,2916.94,0.15,4958.8,338.62
+ORD-0024,2023-05-04,2023-05-07,Second Class,CUST-008,Corporate,Cebu,Mindanao,Furniture,Chairs,6,389.18,0.0,2335.08,589.76
+ORD-0025,2022-09-10,2022-09-17,Standard Class,CUST-007,Home Office,Iloilo,Luzon,Office Supplies,Envelopes,19,2847.87,0.0,54109.53,17878.43
+ORD-0026,2022-09-29,2022-09-29,Same Day,CUST-001,Corporate,Baguio,Mindanao,Furniture,Shelves,15,1615.08,0.3,16958.34,5608.47
+ORD-0027,2022-04-13,2022-04-20,Standard Class,CUST-012,Corporate,Davao,Visayas,Office Supplies,Pens,5,4669.63,0.0,23348.15,7326.21
+ORD-0028,2023-07-11,2023-07-12,First Class,CUST-029,Consumer,Bacolod,Luzon,Furniture,Shelves,4,4697.7,0.0,18790.8,2430.4
+ORD-0029,2022-10-06,2022-10-07,First Class,CUST-016,Corporate,Manila,Luzon,Furniture,Shelves,7,3453.11,0.3,16920.24,2186.01
+ORD-0030,2023-10-12,2023-10-12,Same Day,CUST-006,Home Office,Zamboanga,Mindanao,Office Supplies,Paper,11,3867.04,0.2,34029.95,11704.24
+ORD-0031,2023-12-24,2023-12-24,Same Day,CUST-018,Consumer,Cagayan de Oro,Luzon,Office Supplies,Paper,5,2750.67,0.3,9627.34,1547.74
+ORD-0032,2022-02-12,2022-02-14,First Class,CUST-025,Home Office,Cagayan de Oro,Mindanao,Office Supplies,Pens,7,3426.23,0.2,19186.89,1551.03
+ORD-0033,2022-06-08,2022-06-11,Second Class,CUST-014,Home Office,Quezon City,Visayas,Office Supplies,Envelopes,1,937.84,0.0,937.84,267.02
+ORD-0034,2022-06-13,2022-06-19,Standard Class,CUST-027,Consumer,Quezon City,Luzon,Office Supplies,Envelopes,8,1037.89,0.1,7472.81,1157.52
+ORD-0035,2023-11-07,2023-11-11,Second Class,CUST-017,Corporate,Bacolod,Visayas,Technology,Accessories,3,4836.1,0.0,14508.3,2253.78
+ORD-0036,2022-01-29,2022-02-04,Standard Class,CUST-026,Corporate,Cagayan de Oro,Mindanao,Office Supplies,Pens,2,586.59,0.1,1055.86,162.29
+ORD-0037,2023-06-08,2023-06-14,Standard Class,CUST-030,Home Office,Quezon City,Visayas,Furniture,Tables,9,269.71,0.1,2184.65,110.34
+ORD-0038,2023-03-18,2023-03-25,Standard Class,CUST-022,Corporate,Iloilo,Visayas,Technology,Accessories,4,3612.78,0.0,14451.12,2921.1
+ORD-0039,2023-12-15,2023-12-16,First Class,CUST-010,Corporate,Bacolod,Luzon,Office Supplies,Envelopes,13,3402.72,0.0,44235.36,10380.03
+ORD-0040,2022-11-08,2022-11-09,First Class,CUST-016,Home Office,Davao,Mindanao,Technology,Accessories,15,2236.84,0.2,26842.08,3062.96
+ORD-0041,2022-03-28,2022-03-30,First Class,CUST-002,Consumer,Zamboanga,Mindanao,Office Supplies,Binders,10,1161.97,0.0,11619.7,1094.65
+ORD-0042,2022-03-16,2022-03-16,Same Day,CUST-023,Consumer,Cebu,Visayas,Furniture,Tables,13,2497.17,0.0,32463.21,3060.35
+ORD-0043,2022-08-13,2022-08-17,Second Class,CUST-017,Home Office,Baguio,Visayas,Office Supplies,Binders,4,2309.49,0.3,6466.57,1224.72
+ORD-0044,2023-03-30,2023-03-30,Same Day,CUST-009,Home Office,Zamboanga,Mindanao,Office Supplies,Envelopes,15,1333.0,0.0,19995.0,6037.67
+ORD-0045,2022-09-02,2022-09-04,First Class,CUST-003,Consumer,Davao,Luzon,Office Supplies,Pens,8,1394.99,0.0,11159.92,3547.83
+ORD-0046,2023-01-28,2023-01-31,Second Class,CUST-007,Corporate,Cagayan de Oro,Mindanao,Office Supplies,Envelopes,14,1687.86,0.1,21267.04,3716.04
+ORD-0047,2023-12-14,2023-12-21,Standard Class,CUST-028,Corporate,Bacolod,Mindanao,Technology,Printers,1,4716.57,0.0,4716.57,1301.97
+ORD-0048,2023-07-14,2023-07-18,Second Class,CUST-022,Corporate,Davao,Visayas,Office Supplies,Pens,14,2453.93,0.1,30919.52,4663.87
+ORD-0049,2022-05-11,2022-05-17,Standard Class,CUST-006,Consumer,Makati,Visayas,Furniture,Chairs,3,3231.61,0.0,9694.83,3005.93
+ORD-0050,2022-12-02,2022-12-06,Second Class,CUST-027,Consumer,Zamboanga,Luzon,Technology,Accessories,13,1427.37,0.3,12989.07,2292.17
+ORD-0051,2023-07-07,2023-07-13,Standard Class,CUST-001,Home Office,Davao,Luzon,Office Supplies,Paper,2,3783.45,0.0,7566.9,830.91
+ORD-0052,2022-05-10,2022-05-10,Same Day,CUST-020,Home Office,Cebu,Luzon,Furniture,Tables,15,3512.35,0.3,36879.67,5925.4
+ORD-0053,2022-11-15,2022-11-22,Standard Class,CUST-023,Consumer,Cebu,Mindanao,Office Supplies,Pens,19,3402.87,0.1,58189.08,9833.74
+ORD-0054,2023-12-09,2023-12-12,Second Class,CUST-026,Consumer,Iloilo,Mindanao,Furniture,Shelves,20,4037.36,0.3,56523.04,19509.11
+ORD-0055,2023-03-15,2023-03-16,First Class,CUST-014,Corporate,Zamboanga,Mindanao,Furniture,Shelves,1,4255.4,0.3,2978.78,587.0
+ORD-0056,2022-06-06,2022-06-06,Same Day,CUST-015,Corporate,Baguio,Visayas,Furniture,Shelves,20,4050.59,0.15,68860.03,19445.55
+ORD-0057,2022-11-27,2022-11-30,Second Class,CUST-013,Corporate,Manila,Visayas,Technology,Printers,8,3764.86,0.15,25601.05,5967.59
+ORD-0058,2022-11-29,2022-12-03,Second Class,CUST-009,Home Office,Manila,Mindanao,Office Supplies,Pens,9,1734.68,0.15,13270.3,3454.99
+ORD-0059,2022-07-15,2022-07-20,Standard Class,CUST-021,Home Office,Zamboanga,Visayas,Furniture,Cabinets,16,2798.12,0.0,44769.92,11514.05
+ORD-0060,2022-01-18,2022-01-24,Standard Class,CUST-018,Home Office,Iloilo,Visayas,Office Supplies,Envelopes,8,1565.72,0.15,10646.9,1711.02
+ORD-0061,2023-07-18,2023-07-20,First Class,CUST-007,Corporate,Cebu,Mindanao,Furniture,Cabinets,9,1567.78,0.0,14110.02,1216.24
+ORD-0062,2023-07-03,2023-07-06,Second Class,CUST-010,Consumer,Quezon City,Visayas,Office Supplies,Envelopes,9,3636.7,0.3,22911.21,4751.58
+ORD-0063,2022-08-21,2022-08-22,First Class,CUST-018,Corporate,Davao,Mindanao,Technology,Phones,18,676.59,0.0,12178.62,4168.6
+ORD-0064,2023-05-18,2023-05-23,Standard Class,CUST-002,Corporate,Zamboanga,Luzon,Furniture,Shelves,16,2419.64,0.0,38714.24,4076.96
+ORD-0065,2022-03-08,2022-03-08,Same Day,CUST-003,Consumer,Cebu,Mindanao,Office Supplies,Paper,5,788.53,0.15,3351.25,1121.79
+ORD-0066,2023-03-03,2023-03-07,Second Class,CUST-020,Consumer,Baguio,Mindanao,Technology,Printers,10,4307.82,0.1,38770.38,5490.43
+ORD-0067,2022-04-12,2022-04-15,Second Class,CUST-001,Corporate,Zamboanga,Mindanao,Technology,Phones,6,1237.33,0.15,6310.38,457.63
+ORD-0068,2023-09-01,2023-09-01,Same Day,CUST-003,Home Office,Quezon City,Visayas,Office Supplies,Binders,10,3549.43,0.2,28395.44,8742.45
+ORD-0069,2023-10-03,2023-10-07,Second Class,CUST-002,Consumer,Makati,Mindanao,Office Supplies,Binders,5,4546.64,0.3,15913.24,1474.69
+ORD-0070,2023-08-06,2023-08-08,First Class,CUST-016,Corporate,Cebu,Mindanao,Office Supplies,Envelopes,10,3513.68,0.0,35136.8,7032.34
+ORD-0071,2022-02-10,2022-02-10,Same Day,CUST-019,Home Office,Manila,Mindanao,Furniture,Shelves,1,502.07,0.2,401.66,120.81
+ORD-0072,2022-10-03,2022-10-08,Standard Class,CUST-027,Corporate,Cebu,Visayas,Technology,Printers,9,948.37,0.15,7255.03,1311.46
+ORD-0073,2022-12-23,2022-12-23,Same Day,CUST-022,Corporate,Bacolod,Luzon,Technology,Phones,6,1682.53,0.2,8076.14,1604.25
+ORD-0074,2023-04-11,2023-04-17,Standard Class,CUST-027,Consumer,Bacolod,Visayas,Technology,Accessories,4,4852.41,0.1,17468.68,5406.09
+ORD-0075,2023-02-28,2023-03-05,Standard Class,CUST-002,Consumer,Makati,Mindanao,Furniture,Shelves,20,3794.39,0.2,60710.24,11086.44
+ORD-0076,2022-05-15,2022-05-17,First Class,CUST-008,Home Office,Davao,Visayas,Furniture,Cabinets,4,192.9,0.2,617.28,143.62
+ORD-0077,2023-07-19,2023-07-26,Standard Class,CUST-004,Home Office,Davao,Visayas,Technology,Phones,8,4961.67,0.0,39693.36,7479.59
+ORD-0078,2022-10-26,2022-10-28,First Class,CUST-030,Home Office,Bacolod,Mindanao,Technology,Printers,8,2311.09,0.0,18488.72,3052.04
+ORD-0079,2022-05-20,2022-05-26,Standard Class,CUST-010,Home Office,Baguio,Mindanao,Technology,Accessories,17,1372.5,0.0,23332.5,3146.43
+ORD-0080,2023-05-17,2023-05-21,Second Class,CUST-015,Corporate,Quezon City,Mindanao,Furniture,Cabinets,12,1695.58,0.3,14242.87,3034.14
+ORD-0081,2022-09-02,2022-09-02,Same Day,CUST-013,Corporate,Davao,Visayas,Technology,Phones,11,3736.29,0.2,32879.35,10653.86
+ORD-0082,2022-02-07,2022-02-11,Second Class,CUST-005,Corporate,Davao,Luzon,Office Supplies,Envelopes,4,2653.46,0.1,9552.46,521.61
+ORD-0083,2023-04-26,2023-04-28,First Class,CUST-018,Corporate,Iloilo,Mindanao,Furniture,Cabinets,3,4266.24,0.3,8959.1,2260.45
+ORD-0084,2023-05-15,2023-05-22,Standard Class,CUST-004,Home Office,Cebu,Visayas,Office Supplies,Binders,10,4987.26,0.2,39898.08,3076.69
+ORD-0085,2022-06-20,2022-06-21,First Class,CUST-008,Home Office,Cagayan de Oro,Mindanao,Office Supplies,Pens,2,1502.17,0.0,3004.34,538.4
+ORD-0086,2023-11-30,2023-12-03,Second Class,CUST-016,Home Office,Davao,Luzon,Office Supplies,Paper,20,4360.66,0.15,74131.22,18899.04
+ORD-0087,2023-04-18,2023-04-20,First Class,CUST-003,Corporate,Iloilo,Mindanao,Technology,Phones,15,4510.99,0.2,54131.88,11583.11
+ORD-0088,2022-11-03,2022-11-03,Same Day,CUST-008,Corporate,Baguio,Visayas,Technology,Accessories,7,4996.9,0.3,24484.81,4773.62
+ORD-0089,2023-08-12,2023-08-14,First Class,CUST-024,Consumer,Baguio,Mindanao,Office Supplies,Envelopes,9,90.08,0.3,567.5,145.13
+ORD-0090,2023-05-24,2023-05-25,First Class,CUST-025,Home Office,Davao,Mindanao,Furniture,Shelves,8,3201.26,0.15,21768.57,2725.16
+ORD-0091,2022-04-10,2022-04-16,Standard Class,CUST-010,Corporate,Cagayan de Oro,Luzon,Technology,Phones,19,1856.06,0.0,35265.14,2716.83
+ORD-0092,2022-07-25,2022-07-29,Second Class,CUST-026,Corporate,Iloilo,Luzon,Furniture,Shelves,6,1322.0,0.3,5552.4,1850.37
+ORD-0093,2023-04-25,2023-04-30,Standard Class,CUST-009,Home Office,Cebu,Visayas,Office Supplies,Envelopes,18,1860.59,0.3,23443.43,3947.23
+ORD-0094,2023-01-13,2023-01-15,First Class,CUST-029,Home Office,Iloilo,Mindanao,Furniture,Shelves,4,3390.44,0.1,12205.58,701.91
+ORD-0095,2022-08-15,2022-08-22,Standard Class,CUST-010,Corporate,Cebu,Luzon,Technology,Accessories,14,627.55,0.0,8785.7,2933.36
+ORD-0096,2022-08-29,2022-09-02,Second Class,CUST-029,Corporate,Cebu,Visayas,Technology,Accessories,18,2124.68,0.2,30595.39,8198.94
+ORD-0097,2023-09-23,2023-09-23,Same Day,CUST-004,Home Office,Iloilo,Mindanao,Office Supplies,Pens,7,2244.75,0.0,15713.25,4818.23
+ORD-0098,2023-10-23,2023-10-24,First Class,CUST-003,Home Office,Quezon City,Mindanao,Technology,Accessories,7,4842.62,0.3,23728.84,7053.57
+ORD-0099,2023-10-17,2023-10-22,Standard Class,CUST-025,Home Office,Quezon City,Mindanao,Technology,Laptops,5,3945.54,0.0,19727.7,1392.44
+ORD-0100,2022-08-10,2022-08-14,Second Class,CUST-018,Corporate,Davao,Luzon,Office Supplies,Paper,9,4299.11,0.0,38691.99,13397.42
